@@ -26,8 +26,8 @@ The challenge was to build a responsive page from a figma design (https://www.fi
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/Nuca29/Equalizer-Landing-Page.git)
-- Live Site URL: [Live site URL here](https://nuca29.github.io/Equalizer-Landing-Page/)
+- Solution URL: [Solution URL here](https://github.com/NunuAbuashvili/Equalizer-Landing-Page.git)
+- Live Site URL: [Live site URL here](https://nunuabuashvili.github.io/Equalizer-Landing-Page/)
 
 ## My process
 
